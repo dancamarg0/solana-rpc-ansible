@@ -1,0 +1,11 @@
+ansible<2.10
+pyyaml
+packaging
+passlib
+jmespath
+ns1-python
+dnspython
+mitogen~=0.2.9
+yamllint
+ansible-lint
+molecule[docker,lint]
