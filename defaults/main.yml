@@ -10,7 +10,7 @@ install_rust: true
 
 # Solana variables
 
-solana_installer_version: v1.6.10
+solana_installer_version: v1.8.14
 
 solana_version: stable
 
@@ -45,7 +45,7 @@ solana_rpc_port: '8899'
 
 solana_rpc_bind_address: '127.0.0.1'
 
-solana_dynamic_port_range: '8002-8012'
+solana_dynamic_port_range: '8002-8013'
 
 solana_wal_recovery_mode: skip_any_corrupted_record
 
@@ -53,7 +53,7 @@ solana_limit_ledger_size: ''
 
 solana_trusted_validators: []
 
-solana_account_index: program-id spl-token-owner spl-token-mint
+solana_account_index: program-id
 
 solana_bigtable_enabled: false
 

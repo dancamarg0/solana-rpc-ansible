@@ -10,8 +10,12 @@ solana_entrypoints:
 solana_metrics_config: host=https://metrics.solana.com:8086,db=tds,u=testnet_write,p=c4fa841aa918bf8274e3e2a44d77568d9861b3ea
 
 
-solana_trusted_validators:
-  - 5D1fNXzvv5NjV1ysLjirC4WY92RNsVH18vjmcszZd8on
-  - 7XSY3MrYnK8vq693Rju17bbPkCN3Z7KvvfvJx4kdrsSY
-  - Ft5fbkqNa76vnsjYNwjDZUXoTWpP7VYm3mtsaQckQADN
-  - 9QxCLckBiJc783jnMvXZubK4wH86Eqqvashtrwvcsgkv
+solana_known_validators:
+  - eoKpUABi59aT4rR9HGS3LcMecfut9x7zJyodWWP43YQ
+  - 9YVpEeZf8uBoUtzCFC6SSFDDqPt16uKFubNhLvGxeUDy
+  - 4958nAd4Gp1MZQEg97b7prdDKAgC5Ab3iQtNzAWyHqEV
+  - 4jhyvbBHbsRDF6och7pDQ7ahYTUr7wNkAYJTLLuMUtku
+  - D2ULkLgZk1d6RW3Wmd14vFNfkBgi6NMM8CDNsNuNXvfV
+  - 4z755TDizaUVyRRKw7y8DnTnnon8ksQYsZyU3feF6yFc #testnet restart 01/01/2022
+  - Bszp6hDL19ymPZ8efp9venQYb4ae2rRmEtVp4aG6k8nx #testnet restart 01/01/2022
+  - 8SRKNfvMerfA1BdU79CAwU4wNfjnDvFrBo3o5f5TS4uv #testnet restart 01/01/2022
